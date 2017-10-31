@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+}
+
+p{
+    text-decoration-color: blueviolet
+}
+
+.special {
+    color: #FF0000;
+    font-family: "Comic Sans MS", cursive;
+}
+
+#header {
+    font-size: 36px;
+}
+
+p.intro {
+    color: red;
+}
+
+li:first-child {
+    font-weight: bold;
+}
+
+div {color:blue}
+
+p{color:greenyellow}
+
+body {
+    background-color: DodgerBlue;
+}
